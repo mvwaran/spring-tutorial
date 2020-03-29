@@ -12,5 +12,9 @@
     <file url="file://$PROJECT_DIR$/part5-bean-scope/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/part6-bean-lifecycle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/part6-bean-lifecycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part7-rewrite-part2part3part4-using-spring-autowired-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part7-rewrite-part2part3part4-using-spring-autowired-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part8-autowire-and-qualifier-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part8-autowire-and-qualifier-annotation/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -1,5 +1,13 @@
 # Spring
 
+## Highlights
+
+#### part7-rewrite-part2part3part4-using-spring-autowired-annotation
+
+- `EmployeeConstructorInjection.java` line number 7 (versus) `EmployeeFieldInjection.java` line number 7
+
+## FAQ's
+
 #### What is Spring Bean
 
 - A "Spring Bean" is simply a Java object. When Java objects are created by the Spring Container, then Spring refers to them as "Spring Beans".

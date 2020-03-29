@@ -7,9 +7,11 @@ public class Part2 {
         // load spring config (applicationContext.xml) file
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
         // retrieve bean from spring container and cast it to Sport
-        Sport sport = context.getBean("sport", Sport.class);
+        Person student = context.getBean("student", Person.class);
+        Person employee = context.getBean("employee", Person.class);
         // call method on bean
-        System.out.println(sport.getAccessories());
+        System.out.println(student.echo());
+        System.out.println(employee.echo());
         // close context
         context.close();
     }

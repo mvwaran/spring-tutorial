@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/part4-service-and-literal-setter-injection/pom.xml" />
         <option value="$PROJECT_DIR$/part5-bean-scope/pom.xml" />
         <option value="$PROJECT_DIR$/part6-bean-lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/part7-rewrite-part2part3part4-using-spring-autowired-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/part8-autowire-and-qualifier-annotation/pom.xml" />
       </list>
     </option>
   </component>

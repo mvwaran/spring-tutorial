@@ -12,6 +12,8 @@
         <module name="part4-service-and-literal-setter-injection" />
         <module name="part1-creating-object-without-spring" />
         <module name="part5-bean-scope" />
+        <module name="part7-rewrite-part2part3part4-using-spring-autowired-annotation" />
+        <module name="part8-autowire-and-qualifier-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +25,9 @@
       <module name="part5-bean-scope" target="1.7" />
       <module name="part5-bean-scope (1)" target="1.7" />
       <module name="part6-bean-lifecycle" target="1.7" />
+      <module name="part7-rewrite-part2part3part4-using-spring-autowired-annotation" target="1.7" />
+      <module name="part7-rewriting-part2to4-using-spring-annotation" target="1.7" />
+      <module name="part8-autowire-and-qualifier-annotation" target="1.7" />
       <module name="sample" target="1.7" />
     </bytecodeTargetLevel>
   </component>
