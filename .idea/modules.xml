@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/part1-creating-object-without-spring/part1-creating-object-without-spring.iml" filepath="$PROJECT_DIR$/part1-creating-object-without-spring/part1-creating-object-without-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part2-manage-object-using-spring-xml/part2-manage-object-using-spring-xml.iml" filepath="$PROJECT_DIR$/part2-manage-object-using-spring-xml/part2-manage-object-using-spring-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part3-service-constructor-injection/part3-service-constructor-injection.iml" filepath="$PROJECT_DIR$/part3-service-constructor-injection/part3-service-constructor-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part4-service-and-literal-setter-injection/part4-service-and-literal-setter-injection.iml" filepath="$PROJECT_DIR$/part4-service-and-literal-setter-injection/part4-service-and-literal-setter-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part5-bean-scope/part5-bean-scope.iml" filepath="$PROJECT_DIR$/part5-bean-scope/part5-bean-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part6-bean-lifecycle/part6-bean-lifecycle.iml" filepath="$PROJECT_DIR$/part6-bean-lifecycle/part6-bean-lifecycle.iml" />
+    </modules>
+  </component>
+</project>
