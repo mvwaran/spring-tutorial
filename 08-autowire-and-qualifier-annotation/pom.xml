@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>part7-rewrite-part2part3part4-using-spring-autowired-annotation</artifactId>
+  <artifactId>08-autowire-and-qualifier-annotation</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>part7-rewrite-part2part3part4-using-spring-autowired-annotation</name>
+  <name>08-autowire-and-qualifier-annotation</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

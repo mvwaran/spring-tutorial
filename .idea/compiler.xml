@@ -6,17 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="part2-manage-object-using-spring-xml" />
-        <module name="part6-bean-lifecycle" />
-        <module name="part3-service-constructor-injection" />
-        <module name="part4-service-and-literal-setter-injection" />
-        <module name="part1-creating-object-without-spring" />
-        <module name="part5-bean-scope" />
-        <module name="part7-rewrite-part2part3part4-using-spring-autowired-annotation" />
-        <module name="part8-autowire-and-qualifier-annotation" />
+        <module name="09-rewrite-part7-no-xml-method-3" />
+        <module name="03-service-constructor-injection" />
+        <module name="04-service-and-literal-setter-injection" />
+        <module name="02-manage-object-using-spring-xml-method-1" />
+        <module name="07-rewrite-part2part3part4-using-xml-component-scan-method-2" />
+        <module name="06-bean-lifecycle" />
+        <module name="01-creating-object-without-spring" />
+        <module name="08-autowire-and-qualifier-annotation" />
+        <module name="10-java-configuration-no-component-scan" />
+        <module name="05-bean-scope" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="01-creating-object-without-spring" target="1.7" />
+      <module name="02-manage-object-using-spring-xml-method-1" target="1.7" />
+      <module name="03-service-constructor-injection" target="1.7" />
+      <module name="04-service-and-literal-setter-injection" target="1.7" />
+      <module name="05-bean-scope" target="1.7" />
+      <module name="06-bean-lifecycle" target="1.7" />
+      <module name="07-rewrite-part2part3part4-using-xml-component-scan-method-2" target="1.7" />
+      <module name="08-autowire-and-qualifier-annotation" target="1.7" />
+      <module name="09-rewrite-part7-no-xml-method-3" target="1.7" />
+      <module name="10-java-configuration-no-component-scan" target="1.7" />
       <module name="part1-creating-object-without-spring" target="1.7" />
       <module name="part2-manage-object-using-spring-xml" target="1.7" />
       <module name="part2-manage-object-using-spring-xml (1)" target="1.7" />
@@ -28,6 +40,7 @@
       <module name="part7-rewrite-part2part3part4-using-spring-autowired-annotation" target="1.7" />
       <module name="part7-rewriting-part2to4-using-spring-annotation" target="1.7" />
       <module name="part8-autowire-and-qualifier-annotation" target="1.7" />
+      <module name="part9-no-xml-java-configuration" target="1.7" />
       <module name="sample" target="1.7" />
     </bytecodeTargetLevel>
   </component>

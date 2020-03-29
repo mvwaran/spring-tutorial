@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>part6-bean-lifecycle</artifactId>
+  <artifactId>10-java-configuration-no-component-scan</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>part6-bean-lifecycle</name>
+  <name>10-java-configuration-no-component-scan</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

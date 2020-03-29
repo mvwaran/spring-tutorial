@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/part1-creating-object-without-spring/part1-creating-object-without-spring.iml" filepath="$PROJECT_DIR$/part1-creating-object-without-spring/part1-creating-object-without-spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part2-manage-object-using-spring-xml/part2-manage-object-using-spring-xml.iml" filepath="$PROJECT_DIR$/part2-manage-object-using-spring-xml/part2-manage-object-using-spring-xml.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part3-service-constructor-injection/part3-service-constructor-injection.iml" filepath="$PROJECT_DIR$/part3-service-constructor-injection/part3-service-constructor-injection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part4-service-and-literal-setter-injection/part4-service-and-literal-setter-injection.iml" filepath="$PROJECT_DIR$/part4-service-and-literal-setter-injection/part4-service-and-literal-setter-injection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part5-bean-scope/part5-bean-scope.iml" filepath="$PROJECT_DIR$/part5-bean-scope/part5-bean-scope.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part6-bean-lifecycle/part6-bean-lifecycle.iml" filepath="$PROJECT_DIR$/part6-bean-lifecycle/part6-bean-lifecycle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part7-rewrite-part2part3part4-using-spring-autowired-annotation/part7-rewrite-part2part3part4-using-spring-autowired-annotation.iml" filepath="$PROJECT_DIR$/part7-rewrite-part2part3part4-using-spring-autowired-annotation/part7-rewrite-part2part3part4-using-spring-autowired-annotation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part8-autowire-and-qualifier-annotation/part8-autowire-and-qualifier-annotation.iml" filepath="$PROJECT_DIR$/part8-autowire-and-qualifier-annotation/part8-autowire-and-qualifier-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-creating-object-without-spring/01-creating-object-without-spring.iml" filepath="$PROJECT_DIR$/01-creating-object-without-spring/01-creating-object-without-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-manage-object-using-spring-xml-method-1/02-manage-object-using-spring-xml-method-1.iml" filepath="$PROJECT_DIR$/02-manage-object-using-spring-xml-method-1/02-manage-object-using-spring-xml-method-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-service-constructor-injection/03-service-constructor-injection.iml" filepath="$PROJECT_DIR$/03-service-constructor-injection/03-service-constructor-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-service-and-literal-setter-injection/04-service-and-literal-setter-injection.iml" filepath="$PROJECT_DIR$/04-service-and-literal-setter-injection/04-service-and-literal-setter-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-bean-scope/05-bean-scope.iml" filepath="$PROJECT_DIR$/05-bean-scope/05-bean-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-bean-lifecycle/06-bean-lifecycle.iml" filepath="$PROJECT_DIR$/06-bean-lifecycle/06-bean-lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-rewrite-part2part3part4-using-xml-component-scan-method-2/07-rewrite-part2part3part4-using-xml-component-scan-method-2.iml" filepath="$PROJECT_DIR$/07-rewrite-part2part3part4-using-xml-component-scan-method-2/07-rewrite-part2part3part4-using-xml-component-scan-method-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-autowire-and-qualifier-annotation/08-autowire-and-qualifier-annotation.iml" filepath="$PROJECT_DIR$/08-autowire-and-qualifier-annotation/08-autowire-and-qualifier-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-rewrite-part7-no-xml-method-3/09-rewrite-part7-no-xml-method-3.iml" filepath="$PROJECT_DIR$/09-rewrite-part7-no-xml-method-3/09-rewrite-part7-no-xml-method-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-java-configuration-no-component-scan/10-java-configuration-no-component-scan.iml" filepath="$PROJECT_DIR$/10-java-configuration-no-component-scan/10-java-configuration-no-component-scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-tutorial.iml" filepath="$PROJECT_DIR$/.idea/spring-tutorial.iml" />
     </modules>
   </component>
 </project>

@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>part3-service-constructor-injection</artifactId>
+  <artifactId>09-rewrite-part7-no-xml-method-3</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>part3-service-constructor-injection</name>
+  <name>09-rewrite-part7-no-xml-method-3</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

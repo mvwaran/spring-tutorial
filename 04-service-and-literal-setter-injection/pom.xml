@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>part2-manage-object-using-spring-xml</artifactId>
+  <artifactId>04-service-and-literal-setter-injection</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>part2-manage-object-using-spring-xml</name>
+  <name>04-service-and-literal-setter-injection</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

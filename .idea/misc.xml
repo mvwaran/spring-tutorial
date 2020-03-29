@@ -3,14 +3,16 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/part1-creating-object-without-spring/pom.xml" />
-        <option value="$PROJECT_DIR$/part2-manage-object-using-spring-xml/pom.xml" />
-        <option value="$PROJECT_DIR$/part3-service-constructor-injection/pom.xml" />
-        <option value="$PROJECT_DIR$/part4-service-and-literal-setter-injection/pom.xml" />
-        <option value="$PROJECT_DIR$/part5-bean-scope/pom.xml" />
-        <option value="$PROJECT_DIR$/part6-bean-lifecycle/pom.xml" />
-        <option value="$PROJECT_DIR$/part7-rewrite-part2part3part4-using-spring-autowired-annotation/pom.xml" />
-        <option value="$PROJECT_DIR$/part8-autowire-and-qualifier-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/01-creating-object-without-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/02-manage-object-using-spring-xml-method-1/pom.xml" />
+        <option value="$PROJECT_DIR$/03-service-constructor-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/04-service-and-literal-setter-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/05-bean-scope/pom.xml" />
+        <option value="$PROJECT_DIR$/06-bean-lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/07-rewrite-part2part3part4-using-xml-component-scan-method-2/pom.xml" />
+        <option value="$PROJECT_DIR$/08-autowire-and-qualifier-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/09-rewrite-part7-no-xml-method-3/pom.xml" />
+        <option value="$PROJECT_DIR$/10-java-configuration-no-component-scan/pom.xml" />
       </list>
     </option>
   </component>
