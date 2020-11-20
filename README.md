@@ -17,20 +17,3 @@
 3. request - Scoped to an HTTP web request
 4. session - Scoped to an HTTP web session
 5. global-session - Scoped to an HTTP web global session
-
-#### part5-bean-scope
-
-- If you are using Method 2 instead of Method 1 you can use `@Scope` annotation below `@Component`
-
-#### part6-bean-lifecycle
-
-- Use `@PostConstruct` and `@PreDestory` if you are using Method 2
-
-#### part7-rewrite-part2part3part4-using-spring-autowired-annotation (Method 2 approach)
-
-- Bean created using `componentscan` instead of `<bean></bean>` tag in `applicationContext.xml`
-- `EmployeeConstructorInjection.java` line number 7 (versus) `EmployeeFieldInjection.java` line number 7
-
-#### part9-no-xml-java-configuration (Method 3 approach)
-
-- Java Configuration class method of configuring container with component scan
